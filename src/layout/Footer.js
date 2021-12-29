@@ -4,7 +4,7 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-primary text-center pt-3 pb-1 mt-5 fixed-bottom">
-      Made With ❤️ By Ayush
+      Made With <span>❤️</span> By Ayush
     </footer>
   );
 };
